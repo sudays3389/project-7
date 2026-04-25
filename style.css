@@ -268,3 +268,17 @@ ul{
 .img8{
     margin-top: -113px;
 }
+.conteiner7{
+    width: 100%;
+    height: 700px;
+    background-image: url(./Mask\ group\ \(4\).png);
+    background-position: right;
+    background-color: #f1f5f8;
+}
+.asist7{
+    padding: 30px 150px;
+}
+.flex9{
+    margin-top: 50px;
+    display: flex;
+}
